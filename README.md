@@ -1,6 +1,21 @@
 ### Hi there 👋 I'm Felipe
 
+
+<div style="display:flex">
 <img src="https://images.unsplash.com/photo-1521668576204-57ae3afee860?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" alt="background" />
+<div>
+    <p>This year I took a turn in my career and entered the IT world. It was a difficult but very satisfying decision and today I am grateful and surprised with the progress and skills I acquired.
+    </p>
+    <p>Although I have more affinity for the Front-End, I feel very comfortable working in the Back-End so my goal is to continue developing in both areas.
+    </p>
+    <p>I am responsible and dedicated. I like to travel and learn about other cultures. I am sociable and outgoing.
+    </p>
+    <p bold>Why me?</p>
+    <p>I have a lot of curiosity and energy to learn new things. I adapt very well to changes and I constantly question myself how to improve.
+    I possess the capacity for teamwork, leadership, decision making and assertive communication. I am open to criticism and other points of view.
+    </p>
+</div>
+</div> 
 
 <!--
 **FelipeJure/FelipeJure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
