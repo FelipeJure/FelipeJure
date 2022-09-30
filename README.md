@@ -1,13 +1,35 @@
-### Hi there 👋 I'm Felipe
+### Felipe
 
+<img align="right" width="300px" src="./bio-image.svg" />
 
-![About Me](https://raw.githubusercontent.com/martins-rafael/martins-rafael/master/bio.gif)
+<p align="left">
+  <a href="mailto:felipe.jure05@gmail.com">
+    <img src="https://img.shields.io/badge/-rafaeldcmartins@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.jure05@gmail.com" />
+  </a>
+  <a href="https://www.linkedin.com/in/felipe-jure">
+    <img src="https://img.shields.io/badge/-Rafael%20Martins-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-jure" />
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Rafa Martins%231783-6633cc?style=flat-square&logo=Discord&logoColor=white" />
+  </a>
+</p>
 
----
-⭐️ From [martins-rafael](https://github.com/martins-rafael)
+<br>
+
+- :rocket: Skills: <strong>HTML5 | CSS3 | JavaScript (ES6+) | ReactJS | Redux | Node.js | Express | Sequelize | Git | NPM | PostgreSQL.</strong>
+<!-- - :mortar_board: Studying: <strong>Next.js | TypeScript</strong>. -->
+- :briefcase: I am currently looking for a job as Full Stack Developer.
+
+<br>
+
+<img
+  align="left"
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=martins-rafael&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=true"
+/>
+
 
 <div display="flex" flexDirection="row">
-<img src="https://images.unsplash.com/photo-1521668576204-57ae3afee860?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" alt="background" />
 <div>
     <p>This year I took a turn in my career and entered the IT world. It was a difficult but very satisfying decision and today I am grateful and surprised with the progress and skills I acquired.
     </p>
@@ -22,20 +44,7 @@
 </div>
 </div> 
 
-<!--
-**FelipeJure/FelipeJure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
