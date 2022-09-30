@@ -1,6 +1,6 @@
 ### Felipe
 
-<img align="right" width="300px" src="./bio-image.svg" />
+<img align="right" width="300px" src="./image.svg" />
 
 
 <p align="left">
