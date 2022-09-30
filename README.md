@@ -14,7 +14,7 @@
 <br>
 
 - :rocket: Skills: <strong>HTML5 | CSS3 | JavaScript (ES6+) | ReactJS | Redux | Node.js | Express | Sequelize | Git | NPM | PostgreSQL | Postman.</strong>
-- :mortar_board: Studying: <strong>React Native</strong>.
+<!-- - :mortar_board: Studying: <strong>React Native</strong>. -->
 - :briefcase: I am currently looking for a job as Full Stack Developer.
 
 <br>
