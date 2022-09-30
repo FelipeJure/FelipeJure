@@ -1,4 +1,4 @@
-### Felipe
+# Felipe Jure
 
 <img align="right" width="300px" src="./image.svg" />
 
