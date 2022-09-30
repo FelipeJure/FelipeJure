@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Connect with me:
+https://www.linkedin.com/in/felipe-jure/
+
+Languages and Tools:
+javascript html5 css3 react reactnative redux babel nodejs express git postgresql postman mocha
