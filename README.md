@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Felipe
 
 
-<div style="display:flex">
+<div display="flex" flexDirection="row">
 <img src="https://images.unsplash.com/photo-1521668576204-57ae3afee860?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" alt="background" />
 <div>
     <p>This year I took a turn in my career and entered the IT world. It was a difficult but very satisfying decision and today I am grateful and surprised with the progress and skills I acquired.
