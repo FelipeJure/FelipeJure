@@ -2,15 +2,13 @@
 
 <img align="right" width="300px" src="./bio-image.svg" />
 
+
 <p align="left">
   <a href="mailto:felipe.jure05@gmail.com">
-    <img src="https://img.shields.io/badge/-rafaeldcmartins@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.jure05@gmail.com" />
+    <img src="https://img.shields.io/badge/-felipe.jure05@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.jure05@gmail.com" />
   </a>
   <a href="https://www.linkedin.com/in/felipe-jure">
-    <img src="https://img.shields.io/badge/-Rafael%20Martins-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-jure" />
-  </a>
-  <a>
-    <img src="https://img.shields.io/badge/Rafa Martins%231783-6633cc?style=flat-square&logo=Discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Felipe%20Jure-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-jure" />
   </a>
 </p>
 
@@ -21,12 +19,6 @@
 - :briefcase: I am currently looking for a job as Full Stack Developer.
 
 <br>
-
-<img
-  align="left"
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=martins-rafael&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=true"
-/>
 
 
 <div display="flex" flexDirection="row">
