@@ -1,6 +1,11 @@
 ### Hi there 👋 I'm Felipe
 
 
+![About Me](https://raw.githubusercontent.com/martins-rafael/martins-rafael/master/bio.gif)
+
+---
+⭐️ From [martins-rafael](https://github.com/martins-rafael)
+
 <div display="flex" flexDirection="row">
 <img src="https://images.unsplash.com/photo-1521668576204-57ae3afee860?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" alt="background" />
 <div>
@@ -10,7 +15,7 @@
     </p>
     <p>I am responsible and dedicated. I like to travel and learn about other cultures. I am sociable and outgoing.
     </p>
-    <p bold>Why me?</p>
+    **<p>Why me?</p>**
     <p>I have a lot of curiosity and energy to learn new things. I adapt very well to changes and I constantly question myself how to improve.
     I possess the capacity for teamwork, leadership, decision making and assertive communication. I am open to criticism and other points of view.
     </p>
