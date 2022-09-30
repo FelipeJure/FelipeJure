@@ -1,8 +1,27 @@
-### Hi there 👋 I'm Felipe
+### Felipe
+
+<img align="right" width="300px" src="./bio-image.svg" />
 
 
-<div style="display:flex">
-<img src="https://images.unsplash.com/photo-1521668576204-57ae3afee860?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" alt="background" />
+<p align="left">
+  <a href="mailto:felipe.jure05@gmail.com">
+    <img src="https://img.shields.io/badge/-felipe.jure05@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.jure05@gmail.com" />
+  </a>
+  <a href="https://www.linkedin.com/in/felipe-jure">
+    <img src="https://img.shields.io/badge/-Felipe%20Jure-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-jure" />
+  </a>
+</p>
+
+<br>
+
+- :rocket: Skills: <strong>HTML5 | CSS3 | JavaScript (ES6+) | ReactJS | Redux | Node.js | Express | Sequelize | Git | NPM | PostgreSQL.</strong>
+<!-- - :mortar_board: Studying: <strong>Next.js | TypeScript</strong>. -->
+- :briefcase: I am currently looking for a job as Full Stack Developer.
+
+<br>
+
+
+<div display="flex" flexDirection="row">
 <div>
     <p>This year I took a turn in my career and entered the IT world. It was a difficult but very satisfying decision and today I am grateful and surprised with the progress and skills I acquired.
     </p>
@@ -10,27 +29,14 @@
     </p>
     <p>I am responsible and dedicated. I like to travel and learn about other cultures. I am sociable and outgoing.
     </p>
-    <p bold>Why me?</p>
+    **<p>Why me?</p>**
     <p>I have a lot of curiosity and energy to learn new things. I adapt very well to changes and I constantly question myself how to improve.
     I possess the capacity for teamwork, leadership, decision making and assertive communication. I am open to criticism and other points of view.
     </p>
 </div>
 </div> 
 
-<!--
-**FelipeJure/FelipeJure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
