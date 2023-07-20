@@ -13,13 +13,13 @@
 
 <br>
 
-- :rocket: Skills: <strong>HTML5 | CSS3 | JavaScript (ES6+) | ReactJS | Redux | Node.js | Express | Sequelize | Git | NPM | PostgreSQL | Postman.</strong>
-<!-- - :mortar_board: Studying: <strong>React Native</strong>. -->
+- :rocket: Skills: <strong>HTML5 | CSS3 | JavaScript (ES6+) | ReactJS | Redux | React Native | Node.js | Express | PostgreSQL | Git | NPM | Postman.</strong>
+ - :mortar_board: Studying: <strong>MongoDB | Micro Services Architecture</strong>. 
 - :briefcase: I am currently looking for a job as Full Stack Developer.
 
 <br>
 
-  <p>This year I entered the IT world. It was a difficult but very satisfying decision and today I am grateful and surprised with the progress and skills I acquired.
+  <p>I have been studing and training in web programming for over a year. It was a difficult but very satisfying decision and today I am grateful and surprised with the progress and skills I acquired.
   </p>
   <p>Although I have more affinity for the Front-End, I feel very comfortable working in the Back-End so my goal is to continue developing in both areas.
   </p>
