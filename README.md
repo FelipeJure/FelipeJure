@@ -13,8 +13,8 @@
 
 <br>
 
-- :rocket: Skills: <strong>HTML5 | CSS3 | JavaScript (ES6+) | ReactJS | Redux | React Native | Node.js | Express | PostgreSQL | Git | NPM | Postman.</strong>
- - :mortar_board: Studying: <strong>MongoDB | Micro Services Architecture</strong>. 
+- :rocket: Skills: <strong>HTML5 | CSS3 | JavaScript (ES6+) | ReactJS | Redux | React Native | Node.js | Express | PostgreSQL | Git | NPM | Postman | API ChatGPT</strong>
+ - :mortar_board: Studying: <strong>MongoDB | Micro Services Architecture with Docker</strong>. 
 - :briefcase: I am currently looking for a job as Full Stack Developer.
 
 <br>
